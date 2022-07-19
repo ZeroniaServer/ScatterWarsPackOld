@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/phantom_membrane"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "vote/solo"},
+		{ "predicate": {"custom_model_data": 2}, "model": "vote/teams"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/phantom_membrane"}
+	]
+}

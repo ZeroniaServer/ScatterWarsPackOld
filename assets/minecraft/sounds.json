@@ -1,0 +1,32 @@
+{
+	"blowpipe": {
+		"sounds": [
+			"custom/blowpipe"
+		]
+	},
+	"dynamitefuse": {
+		"sounds": [
+			"custom/dynamitefuse"
+		]
+	},
+	"detonator": {
+		"sounds": [
+			"custom/detonator"
+		]
+	},
+	"applepult_pull": {
+		"sounds": [
+			"custom/applepult_pull"
+		]
+	},
+	"applepult_shot": {
+		"sounds": [
+			"custom/applepult_shot"
+		]
+	},
+	"termites": {
+		"sounds": [
+			"custom/termites"
+		]
+	}
+}

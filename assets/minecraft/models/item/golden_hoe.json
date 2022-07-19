@@ -1,0 +1,19 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_hoe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "credits/yzero"},
+		{ "predicate": {"custom_model_data": 2}, "model": "credits/prozan"},
+		{ "predicate": {"custom_model_data": 3}, "model": "credits/evtema"},
+		{ "predicate": {"custom_model_data": 4}, "model": "credits/solo"},
+		{ "predicate": {"custom_model_data": 5}, "model": "credits/teams"},
+		{ "predicate": {"custom_model_data": 6}, "model": "credits/solo_unselected"},
+		{ "predicate": {"custom_model_data": 7}, "model": "credits/teams_unselected"},
+		{ "predicate": {"custom_model_data": 8}, "model": "weapon/frozen_player"},
+		{ "predicate": {"custom_model_data": 9}, "model": "weapon/termiteblock"},
+		{ "predicate": {"custom_model_data": 10}, "model": "weapon/termitenest"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/golden_hoe"}
+	]
+}

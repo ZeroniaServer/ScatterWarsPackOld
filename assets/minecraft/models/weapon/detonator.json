@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "weapon/detonator"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 39],
+			"translation": [-2.75, 1.25, 1.25],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 39],
+			"translation": [-3, 1.75, 2],
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"firstperson_righthand": {
+			"translation": [-9, -3, -10]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9.25, -3.25, -10]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [0.71, 0.71, 0.71]
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ender_eye"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "weapon/applepult_empty"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/applepult_pull1"},
+		{ "predicate": {"custom_model_data": 3}, "model": "weapon/applepult_pull2"},
+		{ "predicate": {"custom_model_data": 4}, "model": "weapon/applepult_pull3"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/ender_eye"}
+	]
+}

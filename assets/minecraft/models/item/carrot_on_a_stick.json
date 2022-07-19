@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "weapon/blowpipe"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/soul_skull_uncharged"},
+		{ "predicate": {"custom_model_data": 3}, "model": "weapon/soul_skull_charged"},
+		{ "predicate": {"custom_model_data": 4}, "model": "vote/votered"},
+		{ "predicate": {"custom_model_data": 5}, "model": "vote/votegreen"},
+		{ "predicate": {"custom_model_data": 6}, "model": "vote/voteblue"},
+		{ "predicate": {"custom_model_data": 7}, "model": "vote/voteyellow"},
+		{ "predicate": {"custom_model_data": 8}, "model": "vote/ready"},
+		{ "predicate": {"custom_model_data": 9}, "model": "vote/notready"},
+		{ "predicate": {"custom_model_data": 10}, "model": "vote/spectate"},
+		{ "predicate": {"custom_model_data": 11}, "model": "weapon/detonator"},
+		{ "predicate": {"custom_model_data": 12}, "model": "vote/solo"},
+		{ "predicate": {"custom_model_data": 13}, "model": "vote/teams"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/carrot_on_a_stick"}
+	]
+}
