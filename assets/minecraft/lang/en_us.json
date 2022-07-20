@@ -1,0 +1,18 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "death.fell.accident.generic": "%1$s forgot to bring a parachute",
+  "death.attack.wither": "%1$s was pricked to death",
+  "death.attack.wither.player": "%1$s was pricked to death whilst fighting %2$s",
+  "death.attack.flyIntoWall": "%1$s just realized you can't fly through walls",
+  "deathScreen.quit.confirm": "Are you sure you want to? I mean, this game is pretty nice and stuff...",
+  "effect.minecraft.wither": "Damage",
+  "gui.toTitle": "Ragequit",
+  "subtitles.blowpipe.shoot": "Blowpipe shoots",
+  "subtitles.dynamite.fuse": "Dynamite fuses",
+  "subtitles.dynamite.detonator": "Detonator used",
+  "subtitles.applepult.pull": "Applepult pulls",
+  "subtitles.applepult.shot": "Applepult shoots",
+  "subtitles.termite.crawl": "Termites crawl"
+}

@@ -2,31 +2,37 @@
 	"blowpipe": {
 		"sounds": [
 			"custom/blowpipe"
-		]
+		],
+		"subtitle": "subtitles.blowpipe.shoot"
 	},
 	"dynamitefuse": {
 		"sounds": [
 			"custom/dynamitefuse"
-		]
+		],
+		"subtitle": "subtitles.dynamite.fuse"
 	},
 	"detonator": {
 		"sounds": [
 			"custom/detonator"
-		]
+		],
+		"subtitle": "subtitles.dynamite.detonator"
 	},
 	"applepult_pull": {
 		"sounds": [
 			"custom/applepult_pull"
-		]
+		],
+		"subtitle": "subtitles.applepult.pull"
 	},
 	"applepult_shot": {
 		"sounds": [
 			"custom/applepult_shot"
-		]
+		],
+		"subtitle": "subtitles.applepult.shot"
 	},
 	"termites": {
 		"sounds": [
 			"custom/termites"
-		]
+		],
+		"subtitle": "subtitles.termite.crawl"
 	}
 }
