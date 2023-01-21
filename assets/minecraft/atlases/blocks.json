@@ -1,0 +1,132 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:credits/evtema"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:credits/prozan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:credits/prozan_grayscale"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:credits/yzero"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:credits/yzero_grayscale"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:credits/evtema_grayscale"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:vote/notready"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:vote/ready"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:vote/solo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:vote/spectator"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:vote/teams"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/applepult"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/applepult_pulling_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/applepult_pulling_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/applepult_pulling_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/blowdart"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/blowpipe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/cactus_club"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/detonator"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/dynamite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/gravel_gavel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/iceline"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/poison_dagger"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/rock"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/soul_skull_charged"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/soul_skull_uncharged"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/stray_scythe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/termite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/termiteblock"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/termiteicon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/termite_mud"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:weapon/termite_nest"
+        }
+    ]
+}

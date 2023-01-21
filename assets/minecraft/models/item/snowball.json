@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "weapon/iceline"},
 		{ "predicate": {"custom_model_data": 2}, "model": "weapon/termiteitem"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/rock"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/snowball"}
 	]
 }
