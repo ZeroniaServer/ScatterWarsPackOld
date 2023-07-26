@@ -5,12 +5,8 @@
 	},
 	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "weapon/blowdart"},
-		{ "predicate": {"custom_model_data": 2}, "model": "weapon/cactus_club"},
-		{ "predicate": {"custom_model_data": 3}, "model": "weapon/poison_dagger"},
-		{ "predicate": {"custom_model_data": 4}, "model": "weapon/dynamite3d"},
-		{ "predicate": {"custom_model_data": 5}, "model": "weapon/gravel_gavel"},
-		{ "predicate": {"custom_model_data": 6}, "model": "weapon/stray_scythe"},
-		{ "predicate": {"custom_model_data": 7}, "model": "weapon/termite"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/dynamite3d"},
+		{ "predicate": {"custom_model_data": 3}, "model": "weapon/termite"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/nautilus_shell"}
 	]
 }
