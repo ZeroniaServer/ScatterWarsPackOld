@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_horse_armor"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "weapon/cactus_club"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/poison_dagger"},
+		{ "predicate": {"custom_model_data": 3}, "model": "weapon/gravel_gavel"},
+		{ "predicate": {"custom_model_data": 4}, "model": "weapon/stray_scythe"}
+	]
+}
